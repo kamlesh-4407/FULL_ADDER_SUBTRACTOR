@@ -81,6 +81,7 @@ endmodule
 
 
 **RTL Schematic**
+
 **Full-Adder**
 
 ![image](https://github.com/user-attachments/assets/1ebc9cff-76fb-485c-9023-e54780c844b3)
@@ -91,6 +92,7 @@ endmodule
 
 
 **Output Timing Waveform**
+
 **Full-Adder**
 
 ![image](https://github.com/user-attachments/assets/9c218313-48c8-4428-b323-810d3ec89969)
